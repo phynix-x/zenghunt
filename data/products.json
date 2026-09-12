@@ -1,23 +1,830 @@
 [
   {
-    "id": "dyazo",
+    "id": "dyazo-stand",
     "name": "Dyazo 2 in 1 Laptop & Mobile Stand",
+    "category": "electronics",
     "store": "Amazon",
     "price": 999,
-    "mrp": 2199
+    "mrp": 2199,
+    "rating": 4.4,
+    "reviews": 265,
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.amazon.in/s?k=Dyazo+2+in+1+Laptop+Mobile+Stand",
+    "discount": 55,
+    "previousPrice": 1080,
+    "lowestPrice": 940,
+    "averagePrice": 1120,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1180
+      },
+      {
+        "label": "21d ago",
+        "price": 1120
+      },
+      {
+        "label": "14d ago",
+        "price": 1090
+      },
+      {
+        "label": "7d ago",
+        "price": 1050
+      },
+      {
+        "label": "Today",
+        "price": 999
+      }
+    ],
+    "dealScore": 79,
+    "offers": [
+      {
+        "store": "Amazon",
+        "price": 999,
+        "discount": 55,
+        "url": "https://www.amazon.in/s?k=Dyazo+2+in+1+Laptop+Mobile+Stand"
+      },
+      {
+        "store": "Flipkart",
+        "price": 1049,
+        "discount": 52,
+        "url": "https://www.flipkart.com/search?q=Dyazo%20laptop%20stand"
+      },
+      {
+        "store": "Meesho",
+        "price": 1129,
+        "discount": 49,
+        "url": "https://www.meesho.com/search?q=Dyazo%20laptop%20stand"
+      }
+    ]
   },
   {
-    "id": "boat",
+    "id": "boat-headphones",
     "name": "boAt Wireless Headphones",
+    "category": "electronics",
     "store": "Amazon",
     "price": 1999,
-    "mrp": 4999
+    "mrp": 4999,
+    "rating": 4.4,
+    "reviews": 12000,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.amazon.in/s?k=boAt+wireless+headphones",
+    "discount": 60,
+    "previousPrice": 2160,
+    "lowestPrice": 1880,
+    "averagePrice": 2240,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 2360
+      },
+      {
+        "label": "21d ago",
+        "price": 2240
+      },
+      {
+        "label": "14d ago",
+        "price": 2180
+      },
+      {
+        "label": "7d ago",
+        "price": 2100
+      },
+      {
+        "label": "Today",
+        "price": 1999
+      }
+    ],
+    "dealScore": 83,
+    "offers": [
+      {
+        "store": "Amazon",
+        "price": 1999,
+        "discount": 60,
+        "url": "https://www.amazon.in/s?k=boAt+wireless+headphones"
+      }
+    ]
   },
   {
-    "id": "sony",
+    "id": "sony-headphones",
     "name": "Sony Wireless Headphones",
+    "category": "electronics",
     "store": "Amazon",
     "price": 2999,
-    "mrp": 5999
+    "mrp": 5999,
+    "rating": 4.6,
+    "reviews": 8500,
+    "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.amazon.in/s?k=Sony+wireless+headphones",
+    "discount": 50,
+    "previousPrice": 3240,
+    "lowestPrice": 2820,
+    "averagePrice": 3360,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 3540
+      },
+      {
+        "label": "21d ago",
+        "price": 3360
+      },
+      {
+        "label": "14d ago",
+        "price": 3270
+      },
+      {
+        "label": "7d ago",
+        "price": 3150
+      },
+      {
+        "label": "Today",
+        "price": 2999
+      }
+    ],
+    "dealScore": 76,
+    "offers": [
+      {
+        "store": "Amazon",
+        "price": 2999,
+        "discount": 50,
+        "url": "https://www.amazon.in/s?k=Sony+wireless+headphones"
+      }
+    ]
+  },
+  {
+    "id": "sneakers",
+    "name": "Everyday Casual Sneakers",
+    "category": "fashion",
+    "store": "Flipkart",
+    "price": 1299,
+    "mrp": 2499,
+    "rating": 4.3,
+    "reviews": 1800,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.flipkart.com/search?q=casual+sneakers",
+    "discount": 48,
+    "previousPrice": 1400,
+    "lowestPrice": 1220,
+    "averagePrice": 1450,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1530
+      },
+      {
+        "label": "21d ago",
+        "price": 1450
+      },
+      {
+        "label": "14d ago",
+        "price": 1420
+      },
+      {
+        "label": "7d ago",
+        "price": 1360
+      },
+      {
+        "label": "Today",
+        "price": 1299
+      }
+    ],
+    "dealScore": 73,
+    "offers": [
+      {
+        "store": "Flipkart",
+        "price": 1299,
+        "discount": 48,
+        "url": "https://www.flipkart.com/search?q=casual+sneakers"
+      }
+    ]
+  },
+  {
+    "id": "smartwatch",
+    "name": "Noise ColorFit Smartwatch",
+    "category": "electronics",
+    "store": "Flipkart",
+    "price": 1499,
+    "mrp": 3999,
+    "rating": 4.2,
+    "reviews": 4200,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.flipkart.com/search?q=Noise+ColorFit+smartwatch",
+    "discount": 63,
+    "previousPrice": 1620,
+    "lowestPrice": 1410,
+    "averagePrice": 1680,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1770
+      },
+      {
+        "label": "21d ago",
+        "price": 1680
+      },
+      {
+        "label": "14d ago",
+        "price": 1630
+      },
+      {
+        "label": "7d ago",
+        "price": 1570
+      },
+      {
+        "label": "Today",
+        "price": 1499
+      }
+    ],
+    "dealScore": 84,
+    "offers": [
+      {
+        "store": "Flipkart",
+        "price": 1499,
+        "discount": 63,
+        "url": "https://www.flipkart.com/search?q=Noise+ColorFit+smartwatch"
+      }
+    ]
+  },
+  {
+    "id": "kurta",
+    "name": "Men's Cotton Kurta",
+    "category": "fashion",
+    "store": "Myntra",
+    "price": 799,
+    "mrp": 1999,
+    "rating": 4.3,
+    "reviews": 2100,
+    "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20cotton%20kurta",
+    "discount": 60,
+    "previousPrice": 860,
+    "lowestPrice": 750,
+    "averagePrice": 890,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 940
+      },
+      {
+        "label": "21d ago",
+        "price": 890
+      },
+      {
+        "label": "14d ago",
+        "price": 870
+      },
+      {
+        "label": "7d ago",
+        "price": 840
+      },
+      {
+        "label": "Today",
+        "price": 799
+      }
+    ],
+    "dealScore": 82,
+    "offers": [
+      {
+        "store": "Myntra",
+        "price": 799,
+        "discount": 60,
+        "url": "https://www.myntra.com/search?rawQuery=mens%20cotton%20kurta"
+      }
+    ]
+  },
+  {
+    "id": "sneaker-myntra",
+    "name": "Men's Running Shoes",
+    "category": "fashion",
+    "store": "Myntra",
+    "price": 1599,
+    "mrp": 3499,
+    "rating": 4.4,
+    "reviews": 3100,
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20running%20shoes",
+    "discount": 54,
+    "previousPrice": 1730,
+    "lowestPrice": 1500,
+    "averagePrice": 1790,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1890
+      },
+      {
+        "label": "21d ago",
+        "price": 1790
+      },
+      {
+        "label": "14d ago",
+        "price": 1740
+      },
+      {
+        "label": "7d ago",
+        "price": 1680
+      },
+      {
+        "label": "Today",
+        "price": 1599
+      }
+    ],
+    "dealScore": 78,
+    "offers": [
+      {
+        "store": "Myntra",
+        "price": 1599,
+        "discount": 54,
+        "url": "https://www.myntra.com/search?rawQuery=mens%20running%20shoes"
+      }
+    ]
+  },
+  {
+    "id": "tshirt",
+    "name": "Regular Fit Cotton T-Shirt",
+    "category": "fashion",
+    "store": "AJIO",
+    "price": 499,
+    "mrp": 1299,
+    "rating": 4.1,
+    "reviews": 950,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.ajio.com/search/?text=regular%20fit%20cotton%20tshirt",
+    "discount": 62,
+    "previousPrice": 540,
+    "lowestPrice": 470,
+    "averagePrice": 560,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 590
+      },
+      {
+        "label": "21d ago",
+        "price": 560
+      },
+      {
+        "label": "14d ago",
+        "price": 540
+      },
+      {
+        "label": "7d ago",
+        "price": 520
+      },
+      {
+        "label": "Today",
+        "price": 499
+      }
+    ],
+    "dealScore": 83,
+    "offers": [
+      {
+        "store": "AJIO",
+        "price": 499,
+        "discount": 62,
+        "url": "https://www.ajio.com/search/?text=regular%20fit%20cotton%20tshirt"
+      }
+    ]
+  },
+  {
+    "id": "lipstick",
+    "name": "Matte Lip Color",
+    "category": "beauty",
+    "store": "Nykaa",
+    "price": 599,
+    "mrp": 999,
+    "rating": 4.5,
+    "reviews": 5200,
+    "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.nykaa.com/search/result/?q=matte%20lipstick",
+    "discount": 40,
+    "previousPrice": 650,
+    "lowestPrice": 560,
+    "averagePrice": 670,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 710
+      },
+      {
+        "label": "21d ago",
+        "price": 670
+      },
+      {
+        "label": "14d ago",
+        "price": 650
+      },
+      {
+        "label": "7d ago",
+        "price": 630
+      },
+      {
+        "label": "Today",
+        "price": 599
+      }
+    ],
+    "dealScore": 67,
+    "offers": [
+      {
+        "store": "Nykaa",
+        "price": 599,
+        "discount": 40,
+        "url": "https://www.nykaa.com/search/result/?q=matte%20lipstick"
+      }
+    ]
+  },
+  {
+    "id": "moisturizer",
+    "name": "Daily Face Moisturizer",
+    "category": "beauty",
+    "store": "Meesho",
+    "price": 323,
+    "mrp": 399,
+    "rating": 4.2,
+    "reviews": 1600,
+    "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.meesho.com/search?q=face%20moisturizer",
+    "discount": 19,
+    "previousPrice": 350,
+    "lowestPrice": 300,
+    "averagePrice": 360,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 380
+      },
+      {
+        "label": "21d ago",
+        "price": 360
+      },
+      {
+        "label": "14d ago",
+        "price": 350
+      },
+      {
+        "label": "7d ago",
+        "price": 340
+      },
+      {
+        "label": "Today",
+        "price": 323
+      }
+    ],
+    "dealScore": 49,
+    "offers": [
+      {
+        "store": "Meesho",
+        "price": 323,
+        "discount": 19,
+        "url": "https://www.meesho.com/search?q=face%20moisturizer"
+      }
+    ]
+  },
+  {
+    "id": "cookware",
+    "name": "Non-Stick Cookware Set",
+    "category": "home",
+    "store": "Tata CLiQ",
+    "price": 1799,
+    "mrp": 3999,
+    "rating": 4.3,
+    "reviews": 1300,
+    "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.tatacliq.com/search/?searchCategory=all&searchText=non%20stick%20cookware",
+    "discount": 55,
+    "previousPrice": 1940,
+    "lowestPrice": 1690,
+    "averagePrice": 2010,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 2120
+      },
+      {
+        "label": "21d ago",
+        "price": 2010
+      },
+      {
+        "label": "14d ago",
+        "price": 1960
+      },
+      {
+        "label": "7d ago",
+        "price": 1890
+      },
+      {
+        "label": "Today",
+        "price": 1799
+      }
+    ],
+    "dealScore": 78,
+    "offers": [
+      {
+        "store": "Tata CLiQ",
+        "price": 1799,
+        "discount": 55,
+        "url": "https://www.tatacliq.com/search/?searchCategory=all&searchText=non%20stick%20cookware"
+      }
+    ]
+  },
+  {
+    "id": "monitor",
+    "name": "24-inch Full HD Monitor",
+    "category": "electronics",
+    "store": "Croma",
+    "price": 7999,
+    "mrp": 12999,
+    "rating": 4.4,
+    "reviews": 780,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.croma.com/searchB?q=24%20inch%20monitor",
+    "discount": 38,
+    "previousPrice": 8640,
+    "lowestPrice": 7520,
+    "averagePrice": 8960,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 9440
+      },
+      {
+        "label": "21d ago",
+        "price": 8960
+      },
+      {
+        "label": "14d ago",
+        "price": 8720
+      },
+      {
+        "label": "7d ago",
+        "price": 8400
+      },
+      {
+        "label": "Today",
+        "price": 7999
+      }
+    ],
+    "dealScore": 65,
+    "offers": [
+      {
+        "store": "Croma",
+        "price": 7999,
+        "discount": 38,
+        "url": "https://www.croma.com/searchB?q=24%20inch%20monitor"
+      }
+    ]
+  },
+  {
+    "id": "backpack",
+    "name": "Everyday Laptop Backpack",
+    "category": "fashion",
+    "store": "Lenskart",
+    "price": 999,
+    "mrp": 1999,
+    "rating": 4.1,
+    "reviews": 420,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.lenskart.com/search?q=backpack",
+    "discount": 50,
+    "previousPrice": 1080,
+    "lowestPrice": 940,
+    "averagePrice": 1120,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1180
+      },
+      {
+        "label": "21d ago",
+        "price": 1120
+      },
+      {
+        "label": "14d ago",
+        "price": 1090
+      },
+      {
+        "label": "7d ago",
+        "price": 1050
+      },
+      {
+        "label": "Today",
+        "price": 999
+      }
+    ],
+    "dealScore": 73,
+    "offers": [
+      {
+        "store": "Lenskart",
+        "price": 999,
+        "discount": 50,
+        "url": "https://www.lenskart.com/search?q=backpack"
+      }
+    ]
+  },
+  {
+    "id": "rice-cooker",
+    "name": "Electric Rice Cooker",
+    "category": "home",
+    "store": "JioMart",
+    "price": 1199,
+    "mrp": 2199,
+    "rating": 4.2,
+    "reviews": 690,
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.jiomart.com/search/rice%20cooker",
+    "discount": 45,
+    "previousPrice": 1290,
+    "lowestPrice": 1130,
+    "averagePrice": 1340,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1410
+      },
+      {
+        "label": "21d ago",
+        "price": 1340
+      },
+      {
+        "label": "14d ago",
+        "price": 1310
+      },
+      {
+        "label": "7d ago",
+        "price": 1260
+      },
+      {
+        "label": "Today",
+        "price": 1199
+      }
+    ],
+    "dealScore": 70,
+    "offers": [
+      {
+        "store": "JioMart",
+        "price": 1199,
+        "discount": 45,
+        "url": "https://www.jiomart.com/search/rice%20cooker"
+      }
+    ]
+  },
+  {
+    "id": "training-shoes",
+    "name": "Training Shoes",
+    "category": "fashion",
+    "store": "Decathlon",
+    "price": 1499,
+    "mrp": 2499,
+    "rating": 4.4,
+    "reviews": 2400,
+    "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.decathlon.in/search?query=training%20shoes",
+    "discount": 40,
+    "previousPrice": 1620,
+    "lowestPrice": 1410,
+    "averagePrice": 1680,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 1770
+      },
+      {
+        "label": "21d ago",
+        "price": 1680
+      },
+      {
+        "label": "14d ago",
+        "price": 1630
+      },
+      {
+        "label": "7d ago",
+        "price": 1570
+      },
+      {
+        "label": "Today",
+        "price": 1499
+      }
+    ],
+    "dealScore": 67,
+    "offers": [
+      {
+        "store": "Decathlon",
+        "price": 1499,
+        "discount": 40,
+        "url": "https://www.decathlon.in/search?query=training%20shoes"
+      }
+    ]
+  },
+  {
+    "id": "galaxy",
+    "name": "Samsung Galaxy Smartphone",
+    "category": "electronics",
+    "store": "Samsung",
+    "price": 18999,
+    "mrp": 22999,
+    "rating": 4.5,
+    "reviews": 6100,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.samsung.com/in/search/?searchvalue=galaxy%20smartphone",
+    "discount": 17,
+    "previousPrice": 20520,
+    "lowestPrice": 17860,
+    "averagePrice": 21280,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 22420
+      },
+      {
+        "label": "21d ago",
+        "price": 21280
+      },
+      {
+        "label": "14d ago",
+        "price": 20710
+      },
+      {
+        "label": "7d ago",
+        "price": 19950
+      },
+      {
+        "label": "Today",
+        "price": 18999
+      }
+    ],
+    "dealScore": 49,
+    "offers": [
+      {
+        "store": "Samsung",
+        "price": 18999,
+        "discount": 17,
+        "url": "https://www.samsung.com/in/search/?searchvalue=galaxy%20smartphone"
+      }
+    ]
+  },
+  {
+    "id": "airpods",
+    "name": "Apple AirPods",
+    "category": "electronics",
+    "store": "Apple",
+    "price": 9999,
+    "mrp": 12900,
+    "rating": 4.6,
+    "reviews": 9800,
+    "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=900&q=80",
+    "buyUrl": "https://www.apple.com/in/search/airpods",
+    "discount": 22,
+    "previousPrice": 10800,
+    "lowestPrice": 9400,
+    "averagePrice": 11200,
+    "updated": "Today",
+    "history": [
+      {
+        "label": "30d ago",
+        "price": 11800
+      },
+      {
+        "label": "21d ago",
+        "price": 11200
+      },
+      {
+        "label": "14d ago",
+        "price": 10900
+      },
+      {
+        "label": "7d ago",
+        "price": 10500
+      },
+      {
+        "label": "Today",
+        "price": 9999
+      }
+    ],
+    "dealScore": 54,
+    "offers": [
+      {
+        "store": "Apple",
+        "price": 9999,
+        "discount": 22,
+        "url": "https://www.apple.com/in/search/airpods"
+      }
+    ]
   }
 ]
