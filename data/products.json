@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dyazo",
+    "name": "Dyazo 2 in 1 Laptop & Mobile Stand",
+    "store": "Amazon",
+    "price": 999,
+    "mrp": 2199
+  },
+  {
+    "id": "boat",
+    "name": "boAt Wireless Headphones",
+    "store": "Amazon",
+    "price": 1999,
+    "mrp": 4999
+  },
+  {
+    "id": "sony",
+    "name": "Sony Wireless Headphones",
+    "store": "Amazon",
+    "price": 2999,
+    "mrp": 5999
+  }
+]
