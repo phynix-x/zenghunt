@@ -11,51 +11,26 @@
     "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.amazon.in/s?k=Dyazo+2+in+1+Laptop+Mobile+Stand",
     "discount": 55,
-    "previousPrice": 1080,
-    "lowestPrice": 940,
-    "averagePrice": 1120,
-    "updated": "Today",
+    "previousPrice": 1179,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1180
-      },
-      {
-        "label": "21d ago",
-        "price": 1120
-      },
-      {
-        "label": "14d ago",
-        "price": 1090
-      },
-      {
-        "label": "7d ago",
-        "price": 1050
-      },
-      {
-        "label": "Today",
-        "price": 999
-      }
+      1119,
+      1079,
+      1149,
+      1049,
+      979,
+      1029,
+      999
     ],
-    "dealScore": 79,
     "offers": [
       {
         "store": "Amazon",
         "price": 999,
-        "discount": 55,
-        "url": "https://www.amazon.in/s?k=Dyazo+2+in+1+Laptop+Mobile+Stand"
+        "buyUrl": "https://www.amazon.in/s?k=Dyazo+2+in+1+Laptop+Mobile+Stand"
       },
       {
         "store": "Flipkart",
-        "price": 1049,
-        "discount": 52,
-        "url": "https://www.flipkart.com/search?q=Dyazo%20laptop%20stand"
-      },
-      {
-        "store": "Meesho",
-        "price": 1129,
-        "discount": 49,
-        "url": "https://www.meesho.com/search?q=Dyazo%20laptop%20stand"
+        "price": 1039,
+        "buyUrl": "https://www.amazon.in/s?k=Dyazo+2+in+1+Laptop+Mobile+Stand"
       }
     ]
   },
@@ -71,39 +46,26 @@
     "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.amazon.in/s?k=boAt+wireless+headphones",
     "discount": 60,
-    "previousPrice": 2160,
-    "lowestPrice": 1880,
-    "averagePrice": 2240,
-    "updated": "Today",
+    "previousPrice": 2359,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 2360
-      },
-      {
-        "label": "21d ago",
-        "price": 2240
-      },
-      {
-        "label": "14d ago",
-        "price": 2180
-      },
-      {
-        "label": "7d ago",
-        "price": 2100
-      },
-      {
-        "label": "Today",
-        "price": 1999
-      }
+      2239,
+      2159,
+      2299,
+      2099,
+      1959,
+      2059,
+      1999
     ],
-    "dealScore": 83,
     "offers": [
       {
         "store": "Amazon",
         "price": 1999,
-        "discount": 60,
-        "url": "https://www.amazon.in/s?k=boAt+wireless+headphones"
+        "buyUrl": "https://www.amazon.in/s?k=boAt+wireless+headphones"
+      },
+      {
+        "store": "Flipkart",
+        "price": 2079,
+        "buyUrl": "https://www.amazon.in/s?k=boAt+wireless+headphones"
       }
     ]
   },
@@ -119,39 +81,26 @@
     "image": "https://images.unsplash.com/photo-1484704849700-f032a568e944?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.amazon.in/s?k=Sony+wireless+headphones",
     "discount": 50,
-    "previousPrice": 3240,
-    "lowestPrice": 2820,
-    "averagePrice": 3360,
-    "updated": "Today",
+    "previousPrice": 3539,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 3540
-      },
-      {
-        "label": "21d ago",
-        "price": 3360
-      },
-      {
-        "label": "14d ago",
-        "price": 3270
-      },
-      {
-        "label": "7d ago",
-        "price": 3150
-      },
-      {
-        "label": "Today",
-        "price": 2999
-      }
+      3359,
+      3239,
+      3449,
+      3149,
+      2939,
+      3089,
+      2999
     ],
-    "dealScore": 76,
     "offers": [
       {
         "store": "Amazon",
         "price": 2999,
-        "discount": 50,
-        "url": "https://www.amazon.in/s?k=Sony+wireless+headphones"
+        "buyUrl": "https://www.amazon.in/s?k=Sony+wireless+headphones"
+      },
+      {
+        "store": "Flipkart",
+        "price": 3119,
+        "buyUrl": "https://www.amazon.in/s?k=Sony+wireless+headphones"
       }
     ]
   },
@@ -167,39 +116,26 @@
     "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.flipkart.com/search?q=casual+sneakers",
     "discount": 48,
-    "previousPrice": 1400,
-    "lowestPrice": 1220,
-    "averagePrice": 1450,
-    "updated": "Today",
+    "previousPrice": 1533,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1530
-      },
-      {
-        "label": "21d ago",
-        "price": 1450
-      },
-      {
-        "label": "14d ago",
-        "price": 1420
-      },
-      {
-        "label": "7d ago",
-        "price": 1360
-      },
-      {
-        "label": "Today",
-        "price": 1299
-      }
+      1455,
+      1403,
+      1494,
+      1364,
+      1273,
+      1338,
+      1299
     ],
-    "dealScore": 73,
     "offers": [
       {
         "store": "Flipkart",
         "price": 1299,
-        "discount": 48,
-        "url": "https://www.flipkart.com/search?q=casual+sneakers"
+        "buyUrl": "https://www.flipkart.com/search?q=casual+sneakers"
+      },
+      {
+        "store": "Amazon",
+        "price": 1351,
+        "buyUrl": "https://www.flipkart.com/search?q=casual+sneakers"
       }
     ]
   },
@@ -215,39 +151,26 @@
     "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.flipkart.com/search?q=Noise+ColorFit+smartwatch",
     "discount": 63,
-    "previousPrice": 1620,
-    "lowestPrice": 1410,
-    "averagePrice": 1680,
-    "updated": "Today",
+    "previousPrice": 1769,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1770
-      },
-      {
-        "label": "21d ago",
-        "price": 1680
-      },
-      {
-        "label": "14d ago",
-        "price": 1630
-      },
-      {
-        "label": "7d ago",
-        "price": 1570
-      },
-      {
-        "label": "Today",
-        "price": 1499
-      }
+      1679,
+      1619,
+      1724,
+      1574,
+      1469,
+      1544,
+      1499
     ],
-    "dealScore": 84,
     "offers": [
       {
         "store": "Flipkart",
         "price": 1499,
-        "discount": 63,
-        "url": "https://www.flipkart.com/search?q=Noise+ColorFit+smartwatch"
+        "buyUrl": "https://www.flipkart.com/search?q=Noise+ColorFit+smartwatch"
+      },
+      {
+        "store": "Amazon",
+        "price": 1559,
+        "buyUrl": "https://www.flipkart.com/search?q=Noise+ColorFit+smartwatch"
       }
     ]
   },
@@ -263,39 +186,26 @@
     "image": "https://images.unsplash.com/photo-1596755389378-c31d21fd1273?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20cotton%20kurta",
     "discount": 60,
-    "previousPrice": 860,
-    "lowestPrice": 750,
-    "averagePrice": 890,
-    "updated": "Today",
+    "previousPrice": 943,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 940
-      },
-      {
-        "label": "21d ago",
-        "price": 890
-      },
-      {
-        "label": "14d ago",
-        "price": 870
-      },
-      {
-        "label": "7d ago",
-        "price": 840
-      },
-      {
-        "label": "Today",
-        "price": 799
-      }
+      895,
+      863,
+      919,
+      839,
+      783,
+      823,
+      799
     ],
-    "dealScore": 82,
     "offers": [
       {
         "store": "Myntra",
         "price": 799,
-        "discount": 60,
-        "url": "https://www.myntra.com/search?rawQuery=mens%20cotton%20kurta"
+        "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20cotton%20kurta"
+      },
+      {
+        "store": "Amazon",
+        "price": 831,
+        "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20cotton%20kurta"
       }
     ]
   },
@@ -311,39 +221,26 @@
     "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20running%20shoes",
     "discount": 54,
-    "previousPrice": 1730,
-    "lowestPrice": 1500,
-    "averagePrice": 1790,
-    "updated": "Today",
+    "previousPrice": 1887,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1890
-      },
-      {
-        "label": "21d ago",
-        "price": 1790
-      },
-      {
-        "label": "14d ago",
-        "price": 1740
-      },
-      {
-        "label": "7d ago",
-        "price": 1680
-      },
-      {
-        "label": "Today",
-        "price": 1599
-      }
+      1791,
+      1727,
+      1839,
+      1679,
+      1567,
+      1647,
+      1599
     ],
-    "dealScore": 78,
     "offers": [
       {
         "store": "Myntra",
         "price": 1599,
-        "discount": 54,
-        "url": "https://www.myntra.com/search?rawQuery=mens%20running%20shoes"
+        "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20running%20shoes"
+      },
+      {
+        "store": "Amazon",
+        "price": 1663,
+        "buyUrl": "https://www.myntra.com/search?rawQuery=mens%20running%20shoes"
       }
     ]
   },
@@ -359,39 +256,26 @@
     "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.ajio.com/search/?text=regular%20fit%20cotton%20tshirt",
     "discount": 62,
-    "previousPrice": 540,
-    "lowestPrice": 470,
-    "averagePrice": 560,
-    "updated": "Today",
+    "previousPrice": 589,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 590
-      },
-      {
-        "label": "21d ago",
-        "price": 560
-      },
-      {
-        "label": "14d ago",
-        "price": 540
-      },
-      {
-        "label": "7d ago",
-        "price": 520
-      },
-      {
-        "label": "Today",
-        "price": 499
-      }
+      559,
+      539,
+      574,
+      524,
+      489,
+      514,
+      499
     ],
-    "dealScore": 83,
     "offers": [
       {
         "store": "AJIO",
         "price": 499,
-        "discount": 62,
-        "url": "https://www.ajio.com/search/?text=regular%20fit%20cotton%20tshirt"
+        "buyUrl": "https://www.ajio.com/search/?text=regular%20fit%20cotton%20tshirt"
+      },
+      {
+        "store": "Amazon",
+        "price": 519,
+        "buyUrl": "https://www.ajio.com/search/?text=regular%20fit%20cotton%20tshirt"
       }
     ]
   },
@@ -407,39 +291,26 @@
     "image": "https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.nykaa.com/search/result/?q=matte%20lipstick",
     "discount": 40,
-    "previousPrice": 650,
-    "lowestPrice": 560,
-    "averagePrice": 670,
-    "updated": "Today",
+    "previousPrice": 707,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 710
-      },
-      {
-        "label": "21d ago",
-        "price": 670
-      },
-      {
-        "label": "14d ago",
-        "price": 650
-      },
-      {
-        "label": "7d ago",
-        "price": 630
-      },
-      {
-        "label": "Today",
-        "price": 599
-      }
+      671,
+      647,
+      689,
+      629,
+      587,
+      617,
+      599
     ],
-    "dealScore": 67,
     "offers": [
       {
         "store": "Nykaa",
         "price": 599,
-        "discount": 40,
-        "url": "https://www.nykaa.com/search/result/?q=matte%20lipstick"
+        "buyUrl": "https://www.nykaa.com/search/result/?q=matte%20lipstick"
+      },
+      {
+        "store": "Amazon",
+        "price": 623,
+        "buyUrl": "https://www.nykaa.com/search/result/?q=matte%20lipstick"
       }
     ]
   },
@@ -455,39 +326,26 @@
     "image": "https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.meesho.com/search?q=face%20moisturizer",
     "discount": 19,
-    "previousPrice": 350,
-    "lowestPrice": 300,
-    "averagePrice": 360,
-    "updated": "Today",
+    "previousPrice": 381,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 380
-      },
-      {
-        "label": "21d ago",
-        "price": 360
-      },
-      {
-        "label": "14d ago",
-        "price": 350
-      },
-      {
-        "label": "7d ago",
-        "price": 340
-      },
-      {
-        "label": "Today",
-        "price": 323
-      }
+      362,
+      349,
+      371,
+      339,
+      317,
+      333,
+      323
     ],
-    "dealScore": 49,
     "offers": [
       {
         "store": "Meesho",
         "price": 323,
-        "discount": 19,
-        "url": "https://www.meesho.com/search?q=face%20moisturizer"
+        "buyUrl": "https://www.meesho.com/search?q=face%20moisturizer"
+      },
+      {
+        "store": "Amazon",
+        "price": 336,
+        "buyUrl": "https://www.meesho.com/search?q=face%20moisturizer"
       }
     ]
   },
@@ -503,39 +361,26 @@
     "image": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.tatacliq.com/search/?searchCategory=all&searchText=non%20stick%20cookware",
     "discount": 55,
-    "previousPrice": 1940,
-    "lowestPrice": 1690,
-    "averagePrice": 2010,
-    "updated": "Today",
+    "previousPrice": 2123,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 2120
-      },
-      {
-        "label": "21d ago",
-        "price": 2010
-      },
-      {
-        "label": "14d ago",
-        "price": 1960
-      },
-      {
-        "label": "7d ago",
-        "price": 1890
-      },
-      {
-        "label": "Today",
-        "price": 1799
-      }
+      2015,
+      1943,
+      2069,
+      1889,
+      1763,
+      1853,
+      1799
     ],
-    "dealScore": 78,
     "offers": [
       {
         "store": "Tata CLiQ",
         "price": 1799,
-        "discount": 55,
-        "url": "https://www.tatacliq.com/search/?searchCategory=all&searchText=non%20stick%20cookware"
+        "buyUrl": "https://www.tatacliq.com/search/?searchCategory=all&searchText=non%20stick%20cookware"
+      },
+      {
+        "store": "Amazon",
+        "price": 1871,
+        "buyUrl": "https://www.tatacliq.com/search/?searchCategory=all&searchText=non%20stick%20cookware"
       }
     ]
   },
@@ -551,39 +396,26 @@
     "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.croma.com/searchB?q=24%20inch%20monitor",
     "discount": 38,
-    "previousPrice": 8640,
-    "lowestPrice": 7520,
-    "averagePrice": 8960,
-    "updated": "Today",
+    "previousPrice": 9439,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 9440
-      },
-      {
-        "label": "21d ago",
-        "price": 8960
-      },
-      {
-        "label": "14d ago",
-        "price": 8720
-      },
-      {
-        "label": "7d ago",
-        "price": 8400
-      },
-      {
-        "label": "Today",
-        "price": 7999
-      }
+      8959,
+      8639,
+      9199,
+      8399,
+      7839,
+      8239,
+      7999
     ],
-    "dealScore": 65,
     "offers": [
       {
         "store": "Croma",
         "price": 7999,
-        "discount": 38,
-        "url": "https://www.croma.com/searchB?q=24%20inch%20monitor"
+        "buyUrl": "https://www.croma.com/searchB?q=24%20inch%20monitor"
+      },
+      {
+        "store": "Amazon",
+        "price": 8319,
+        "buyUrl": "https://www.croma.com/searchB?q=24%20inch%20monitor"
       }
     ]
   },
@@ -599,39 +431,26 @@
     "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.lenskart.com/search?q=backpack",
     "discount": 50,
-    "previousPrice": 1080,
-    "lowestPrice": 940,
-    "averagePrice": 1120,
-    "updated": "Today",
+    "previousPrice": 1179,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1180
-      },
-      {
-        "label": "21d ago",
-        "price": 1120
-      },
-      {
-        "label": "14d ago",
-        "price": 1090
-      },
-      {
-        "label": "7d ago",
-        "price": 1050
-      },
-      {
-        "label": "Today",
-        "price": 999
-      }
+      1119,
+      1079,
+      1149,
+      1049,
+      979,
+      1029,
+      999
     ],
-    "dealScore": 73,
     "offers": [
       {
         "store": "Lenskart",
         "price": 999,
-        "discount": 50,
-        "url": "https://www.lenskart.com/search?q=backpack"
+        "buyUrl": "https://www.lenskart.com/search?q=backpack"
+      },
+      {
+        "store": "Amazon",
+        "price": 1039,
+        "buyUrl": "https://www.lenskart.com/search?q=backpack"
       }
     ]
   },
@@ -647,39 +466,26 @@
     "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.jiomart.com/search/rice%20cooker",
     "discount": 45,
-    "previousPrice": 1290,
-    "lowestPrice": 1130,
-    "averagePrice": 1340,
-    "updated": "Today",
+    "previousPrice": 1415,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1410
-      },
-      {
-        "label": "21d ago",
-        "price": 1340
-      },
-      {
-        "label": "14d ago",
-        "price": 1310
-      },
-      {
-        "label": "7d ago",
-        "price": 1260
-      },
-      {
-        "label": "Today",
-        "price": 1199
-      }
+      1343,
+      1295,
+      1379,
+      1259,
+      1175,
+      1235,
+      1199
     ],
-    "dealScore": 70,
     "offers": [
       {
         "store": "JioMart",
         "price": 1199,
-        "discount": 45,
-        "url": "https://www.jiomart.com/search/rice%20cooker"
+        "buyUrl": "https://www.jiomart.com/search/rice%20cooker"
+      },
+      {
+        "store": "Amazon",
+        "price": 1247,
+        "buyUrl": "https://www.jiomart.com/search/rice%20cooker"
       }
     ]
   },
@@ -695,39 +501,26 @@
     "image": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.decathlon.in/search?query=training%20shoes",
     "discount": 40,
-    "previousPrice": 1620,
-    "lowestPrice": 1410,
-    "averagePrice": 1680,
-    "updated": "Today",
+    "previousPrice": 1769,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 1770
-      },
-      {
-        "label": "21d ago",
-        "price": 1680
-      },
-      {
-        "label": "14d ago",
-        "price": 1630
-      },
-      {
-        "label": "7d ago",
-        "price": 1570
-      },
-      {
-        "label": "Today",
-        "price": 1499
-      }
+      1679,
+      1619,
+      1724,
+      1574,
+      1469,
+      1544,
+      1499
     ],
-    "dealScore": 67,
     "offers": [
       {
         "store": "Decathlon",
         "price": 1499,
-        "discount": 40,
-        "url": "https://www.decathlon.in/search?query=training%20shoes"
+        "buyUrl": "https://www.decathlon.in/search?query=training%20shoes"
+      },
+      {
+        "store": "Amazon",
+        "price": 1559,
+        "buyUrl": "https://www.decathlon.in/search?query=training%20shoes"
       }
     ]
   },
@@ -743,39 +536,26 @@
     "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.samsung.com/in/search/?searchvalue=galaxy%20smartphone",
     "discount": 17,
-    "previousPrice": 20520,
-    "lowestPrice": 17860,
-    "averagePrice": 21280,
-    "updated": "Today",
+    "previousPrice": 22419,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 22420
-      },
-      {
-        "label": "21d ago",
-        "price": 21280
-      },
-      {
-        "label": "14d ago",
-        "price": 20710
-      },
-      {
-        "label": "7d ago",
-        "price": 19950
-      },
-      {
-        "label": "Today",
-        "price": 18999
-      }
+      21279,
+      20519,
+      21849,
+      19949,
+      18619,
+      19569,
+      18999
     ],
-    "dealScore": 49,
     "offers": [
       {
         "store": "Samsung",
         "price": 18999,
-        "discount": 17,
-        "url": "https://www.samsung.com/in/search/?searchvalue=galaxy%20smartphone"
+        "buyUrl": "https://www.samsung.com/in/search/?searchvalue=galaxy%20smartphone"
+      },
+      {
+        "store": "Amazon",
+        "price": 19759,
+        "buyUrl": "https://www.samsung.com/in/search/?searchvalue=galaxy%20smartphone"
       }
     ]
   },
@@ -791,39 +571,26 @@
     "image": "https://images.unsplash.com/photo-1600294037681-c80b4cb5b434?auto=format&fit=crop&w=900&q=80",
     "buyUrl": "https://www.apple.com/in/search/airpods",
     "discount": 22,
-    "previousPrice": 10800,
-    "lowestPrice": 9400,
-    "averagePrice": 11200,
-    "updated": "Today",
+    "previousPrice": 11799,
     "history": [
-      {
-        "label": "30d ago",
-        "price": 11800
-      },
-      {
-        "label": "21d ago",
-        "price": 11200
-      },
-      {
-        "label": "14d ago",
-        "price": 10900
-      },
-      {
-        "label": "7d ago",
-        "price": 10500
-      },
-      {
-        "label": "Today",
-        "price": 9999
-      }
+      11199,
+      10799,
+      11499,
+      10499,
+      9799,
+      10299,
+      9999
     ],
-    "dealScore": 54,
     "offers": [
       {
         "store": "Apple",
         "price": 9999,
-        "discount": 22,
-        "url": "https://www.apple.com/in/search/airpods"
+        "buyUrl": "https://www.apple.com/in/search/airpods"
+      },
+      {
+        "store": "Amazon",
+        "price": 10399,
+        "buyUrl": "https://www.apple.com/in/search/airpods"
       }
     ]
   }

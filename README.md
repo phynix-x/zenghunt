@@ -1,14 +1,16 @@
-# ZenGhunt BuyHatke-style Website v3
+# ZenGhunt — Supabase-connected website
 
-Static GitHub Pages site implementing the ZenGhunt blueprint:
-- search + category filters
-- current price + previous price
-- lowest/average price
-- demo price-history graph
-- multi-store offer comparison
-- deal score
-- browser-only demo price-alert interaction
-- responsive, restrained black/white/grey visual style
+## Current status
+- GitHub Pages-compatible frontend
+- Supabase REST read layer using the publishable browser key
+- Products, store listings, current prices and recorded price history are loaded from Supabase
+- Product page calculates lowest/average/previous recorded price from actual history rows
+- Store comparison uses actual listing URLs from Supabase
+- No synthetic price-history graph or hard-coded product catalog is used by the live pages
+- Responsive layout includes safe image containment, chart overflow protection and horizontal offer-table scrolling on small screens
 
 ## Important
-This is a frontend/demo build. Live store prices, product matching, history collection and real alerts require a backend plus approved store APIs/feeds. Never put private API keys in GitHub Pages JavaScript.
+The site will show no products until approved/legitimate data sources populate the Supabase tables. Do not put service-role keys or database passwords in this frontend.
+
+## Deploy
+Upload the contents of this folder to the GitHub Pages repository root.
