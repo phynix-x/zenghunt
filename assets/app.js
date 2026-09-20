@@ -30,11 +30,12 @@ async function trackProduct(){
   status.hidden=false;
   status.textContent='Reading the product page…';
   try{
-    const response=await fetch(functionUrl(),{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url})});
+    const cfg=window.ZENGHUNT_CONFIG||{};
+    const response=await fetch(functionUrl(),{method:'POST',headers:{'Content-Type':'application/json',apikey:cfg.supabasePublishableKey,Authorization:`Bearer ${cfg.supabasePublishableKey}`},body:JSON.stringify({url})});
     const data=await response.json();
-    if(!response.ok||!data.ok) throw new Error(data.error||'Unable to track this product.');
+    if(!response.ok||!data.ok) throw new Error(data.error||`Tracker request failed (${response.status})`);
     const p=data.product||{};
-    status.innerHTML=`<strong>${esc(p.name||'Product found')}</strong>${p.price!=null?` · ${money(p.price)}`:''} · ${esc(p.store||'Store')}<br><span>${esc(data.note||'Product page read successfully. Price-history storage will be added when this product is saved.')}</span>`;
+    status.innerHTML=`<strong>${esc(p.name||'Product found')}</strong>${p.price!=null?` · ${money(p.price)}`:''} · ${esc(p.store||'Store')}<br><span>${esc(data.note||'Product page read successfully.')}</span>`;
     if(p.name) input.value='';
   }catch(e){
     console.error(e);
