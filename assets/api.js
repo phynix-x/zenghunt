@@ -1,4 +1,4 @@
-/* ZenGhunt API Manager — browser-side read layer for GitHub Pages. */
+/* ZenGhunt API Manager — browser-side Supabase REST + Edge Function layer. */
 (function () {
   const cfg = window.ZENGHUNT_CONFIG || {};
   const REST = `${cfg.supabaseUrl}/rest/v1`;
@@ -17,6 +17,24 @@
     const res = await fetch(url, { headers });
     if (!res.ok) throw new Error(`API ${res.status}: ${await res.text()}`);
     return res.json();
+  }
+
+  async function trackProduct(productUrl) {
+    if (!cfg.supabaseUrl || !cfg.supabasePublishableKey) throw new Error('Supabase configuration is missing');
+    const endpoint = `${cfg.supabaseUrl}/functions/v1/track-product`;
+    const res = await fetch(endpoint, {
+      method: 'POST',
+      headers: {
+        apikey: cfg.supabasePublishableKey,
+        Authorization: `Bearer ${cfg.supabasePublishableKey}`,
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ url: productUrl })
+    });
+    let data = null;
+    try { data = await res.json(); } catch (_) {}
+    if (!res.ok || !data?.ok) throw new Error(data?.error || `Tracker API ${res.status}`);
+    return data;
   }
 
   async function getProducts() {
@@ -42,5 +60,5 @@
     });
   }
 
-  window.ZenGhuntAPI = { getProducts, getProduct, getHistory };
+  window.ZenGhuntAPI = { getProducts, getProduct, getHistory, trackProduct };
 })();
