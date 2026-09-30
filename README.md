@@ -6,7 +6,7 @@ ZenGhunt is a GitHub Pages frontend backed by Supabase, with a server-side colle
 
 `Store/API feeds → connector manager → normalized offers → product matcher → Supabase → price history → ZenGhunt frontend`
 
-The collector supports the store adapter layer for Amazon, Flipkart, Myntra, AJIO, Meesho, Tata CLiQ, Croma and Reliance Digital. A store is activated only when a legitimate/approved JSON API or feed is configured. ZenGhunt never fabricates prices, links or price-history points.
+The collector supports direct/approved sources for Amazon, Flipkart, Myntra, AJIO, Meesho, Tata CLiQ, Croma and Reliance Digital, plus a generic JSON/CSV/XML/TXT product-feed adapter for approved affiliate networks. This lets one affiliate-network feed cover multiple merchants instead of requiring one custom API per store. ZenGhunt never fabricates prices, links or price-history points.
 
 ## Current website
 
@@ -26,7 +26,7 @@ Run locally with:
 SUPABASE_URL="..." SUPABASE_SERVICE_ROLE_KEY="..." python -m collector.main
 ```
 
-GitHub Actions runs the collector every 6 hours and can also be started manually. The workflow reads the Supabase service-role key and store feed credentials from GitHub Actions secrets; these credentials must never be placed in `assets/config.js` or any browser code.
+GitHub Actions runs the collector every 6 hours and can also be started manually. A separate daily keepalive workflow makes a real read-only Supabase request so the Free project continues receiving activity. The workflow reads the Supabase service-role key and store feed credentials from GitHub Actions secrets; these credentials must never be placed in `assets/config.js` or any browser code.
 
 ### Feed contract
 
@@ -44,7 +44,7 @@ Required:
 - `SUPABASE_URL`
 - `SUPABASE_SERVICE_ROLE_KEY`
 
-Optional per store:
+Optional direct store feeds:
 - `ZENGHUNT_FEED_AMAZON_URL` / `_TOKEN`
 - `ZENGHUNT_FEED_FLIPKART_URL` / `_TOKEN`
 - `ZENGHUNT_FEED_MYNTRA_URL` / `_TOKEN`
@@ -53,6 +53,8 @@ Optional per store:
 - `ZENGHUNT_FEED_TATACLIQ_URL` / `_TOKEN`
 - `ZENGHUNT_FEED_CROMA_URL` / `_TOKEN`
 - `ZENGHUNT_FEED_RELIANCEDIGITAL_URL` / `_TOKEN`
+- `FLIPKART_AFFILIATE_ID` / `FLIPKART_AFFILIATE_TOKEN` / `FLIPKART_AFFILIATE_QUERIES`
+- `ZENGHUNT_FEEDS_JSON` — JSON array of approved affiliate-network feeds. Each entry can specify `slug`, `name`, `url`, optional `token`, and `format` (`json`, `csv`, `xml`, or `auto`).
 
 If no approved feed is configured, the collector exits without inserting data. This is intentional: empty real data is better than fake data.
 
