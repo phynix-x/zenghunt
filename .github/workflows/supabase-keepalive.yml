@@ -14,10 +14,19 @@ jobs:
     steps:
       - name: Generate real database activity
         env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          SUPABASE_URL: https://bztvvonpexothabbqjqy.supabase.co
+          SUPABASE_PUBLISHABLE_KEY: sb_publishable_wQ6uzly0A4dVEu5xvxzl1A_89uhAzpK
         run: |
-          set -e
-          curl --fail --silent --show-error             "${SUPABASE_URL}/rest/v1/products?select=id&limit=1"             -H "apikey: ${SUPABASE_SERVICE_ROLE_KEY}"             -H "Authorization: Bearer ${SUPABASE_SERVICE_ROLE_KEY}"             -H "Accept: application/json"
+          set -euo pipefail
+
+          echo "Checking Supabase REST API..."
+          curl --fail-with-body --silent --show-error \
+            --connect-timeout 15 \
+            --max-time 30 \
+            "${SUPABASE_URL}/rest/v1/products?select=id&limit=1" \
+            -H "apikey: ${SUPABASE_PUBLISHABLE_KEY}" \
+            -H "Authorization: Bearer ${SUPABASE_PUBLISHABLE_KEY}" \
+            -H "Accept: application/json"
+
           echo
-          echo "Supabase keepalive query completed."
+          echo "Supabase keepalive query completed successfully."
